@@ -1,0 +1,2 @@
+# checkout-praktice
+git checkout
